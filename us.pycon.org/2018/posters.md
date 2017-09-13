@@ -15,13 +15,13 @@ On the third and final day of the main conference (May 13, 2018), we will celebr
 
 Poster proposals are due this year on **3 January 2018**.
 
-For details on registering an account and submitting a proposal, visit the [main Speaking page](https://us.pycon.org/2017/speaking/); for specific details about submitting and presenting a poster, read on!
+For details on registering an account and submitting a proposal, visit the [main Speaking page](https://us.pycon.org/2018/speaking/); for specific details about submitting and presenting a poster, read on!
 
 The PyCon poster session is an excellent opportunity to present a wide variety of ideas, topics, or projects and have one-to-one interactions with members of the Python community. The session is held in the large event space to facilitate as many brief and interactive presentations as possible. As such, the poster session is particularly well suited for topics of interest to a subset of the community unlike the broader scope of a talk or tutorial and the poster session often acts as an incubator for further discussion.  
 
 Posters themselves are a graphical summary of your project and can presented in a variety of visual modes to fit a 4′×8′ space. The most common form is a single printed poster or posters of approximately 36″x48″ or several individual pages but other creative modes are encouraged. The presentation space is one side of a standalone poster board that you can tack posters or individual pages to. The presentation space also enjoys regular conference wifi and can be provided power on request for individual demos. 
 
-<span class="label label-important">Note</span> To submit a poster proposal, <a href="/2017/account/signup/">sign up</a> or <a href="/2017/account/login/">log in</a> to your account and proceed to your <a href="/2017/dashboard/">account dashboard.</a>
+<span class="label label-important">Note</span> To submit a poster proposal, <a href="/2018/account/signup/">sign up</a> or <a href="/2018/account/login/">log in</a> to your account and proceed to your <a href="/2018/dashboard/">account dashboard.</a>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/mikepirnat/13968451386/in/photolist-di46Kv-C6JiS-reFPx2-rfujD6-7FaH6y-cVFM13-aFPGNH-rWqyJK-nhkXWJ-nmywbM-njqEGj-nAZTom-n8YzY2-n91dsU-cTLEF7-n8YhV4-n8Y4Lk-n9158C-n8YjQr-n8YaS8-n8Y6HB-n8Yn8p-n91kJh-n8YkBM-n91isy-n8Yrhz-n8YnTH-n8YiQx-n8YmvT-n918QN-n8YkTF-n8Yw7z-n91aJY-n8YoH6-n8YdmM-n8Y8aV-n8YvaK-n8YxWg-n8YcvP-n91fth-n91buq-n91pzy-n8YGbH-n91u7E-n91sVm-n8YpUr-n8YFqz-n8YHo2-n8YE7c-4yuPb3" title="IMG_9283.jpg"><img src="https://farm8.staticflickr.com/7460/13968451386_9e7ee654bd.jpg" width="500" height="333" alt="IMG_9283.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -42,15 +42,19 @@ Posters themselves are a graphical summary of your project and can presented in 
 
 You will be able to propose poster sessions beginning on **October 3, 2017**. 
 
+### Step One: Speaker Profile
+
 You will have to create a speaker profile on the website (and be logged in) in order to submit a poster proposal. 
 
 Be sure to include a one paragraph biography, written in the third person ("Presenter Name is..."). Your bio should be creative and express the most important things you'd like the community to know about you. For example you could include the community you're a part of, where you work, projects you've worked on, publications you've written, volunteer activities or anything else that is meaningful to you. Note that we use this for the conference guide and other promotional materials. 
 
 The primary author should submit the proposal, after which additional authors can be added (they must have accounts too).
 
+### Step Two: Choosing a Topic 
+
 For general advice on developing and submitting a proposal see :
 
-- [So You Want To Present a Talk/Tutorial/Poster At PyCon](https://us.pycon.org/2017/speaking/)
+- [So You Want To Present a Talk/Tutorial/Poster At PyCon](https://us.pycon.org/2018/speaking/)
 
 Also, take a look at past poster sessions to get a sense of the breadth of topics.
 
@@ -62,6 +66,39 @@ Also, take a look at past poster sessions to get a sense of the breadth of topic
 - [PyCon 2012 Posters](http://us.pycon.org/2012/schedule/lists/posters/)
 
 If your questions still aren't answered feel free to email [the Posters team](mailto:pycon-posters@python.org).
+
+### Step Three: The Poster Proposal 
+
+There are three primary parts to a poster proposal:
+
+1. The Title 
+2. Description/Abstract 
+3. Additional Notes 
+
+The title is the first thing your audience will see about your poster. Make it brief and descriptive &mdash; straight to the point is often the best bet! 
+
+The description or abstract will be published in the conference guide and promotional materials. It should provide enough descriptive information to convince your audience to come see your presentation, approximately 1-3 paragraphs. Note that the description is written in markdown and can include links to other material. Write the description as though you are convincing someone to come to your poster rather than giving all the information on the poster. 
+
+Finally, additional notes are a place for you to communicate to the reviewers. Use this space to describe anything you think might be relevant for us to help make you successful in your presentation. For example, note if you need power for a demonstration &mdash; we can see what we can do. Additionally you can show us more materials related to your poster proposal that may help inform us about your topic. 
+
+## Preparing a Poster
+
+If your proposal is accepted, you will then have to design or create your poster. Here are some general tips for designing your poster:
+
+1. Should be readable from 2-3 feet away (use large font!) 
+2. Title and important information should be readable from 10 feet away. 
+3. Title should be short and draw interest. 
+4. Total word count should be approximately 300-800 words per poster. 
+5. Content should be clear and to the point. 
+6. Use graphics, images, colors, headings, numbers, and bullets to bring visual interest. 
+7. Layout your work in an easy to follow narrative.  
+8. Use enough whitespace so your poster isn't crowded. 
+
+Generally speaking a poster is laid out as a landscape 36 inches high by 48 inches wide (this is also the most cost effective to print). Alternatively, you can use multiple sheets of paper, each with its own content. Feel free to be creative and create artworks or collages, use poster board, or a variety of visual modes &mdash; just note that you'll have to hang or tack your poster on a 4 foot by 8 foot poster board (which gives you room to print two posters or even duplicate a single poster and post it twice). 
+
+You can use a variety of software to design your poster. We recommend Google Draw, Microsoft Powerpoint, or your favorite presentation software because they easily allow you to add basic shapes, text, and images to your document. Just be sure to set your document properties so that you have the correct resolution. Of course you can also use the Adobe Creative Suite tools, Inkscape, or Gimp to design and layout your poster, though this is slightly more advanced. 
+
+For more information about designing posters, please see [MakeSigns.com poster tutorials](https://www.makesigns.com/tutorials/). MakeSigns.com also has provided PyCon a discount code and flat rate shipping to print your poster. Additionally office supply and shipping retail stores also offer printing services. Don't forget to consider how you're going to get your poster to Cleveland as well! Either ship it directly to your hotel, or bring it with you as you travel in a tube or other protective carrier. 
 
 ## Frequently Asked Questions
 
@@ -88,5 +125,13 @@ Alternatively:
 - How professional do the posters need to look?
 - How much money do I need to spend on the poster? 
 
-The poster session is about facilitating one-on-one interactive presentations with an interested audience, therefore we encourage you to spend more time considering how best to organize and _show_ your work. For example, a well structured, well-organized collection of individual sheets of paper tacked to the board 
+The poster session is about facilitating one-on-one interactive presentations with an interested audience, therefore we encourage you to spend more time considering how best to organize and _show_ your work. For example, a well structured, well-organized collection of individual sheets of paper tacked to the board can be as effective as a professionally printed poster. 
+
+Generally speaking, posters are 36″x48″ and can be printed for around USD $50.00. [MakeSigns.com](https://www.makesigns.com/) also has a discount code and flat shipping discount for all PyCon 2018 poster presenters. Posters that have lots of image and short, to-the point text are excellent. Don't be afraid of box and line diagrams or using photographs in your poster! 
+
+If you're still worried about the cost of printing your poster, please [email us](mailto:pycon-posters@python.org) and we'll see what we can do to help. 
+
+### Q: Does my poster need to be in English? 
+
+No. If you feel there will be a significant audience for your poster in a foreign language, you may implement your poster in that language. The difficulty is that the reviewers won't necessarily speak or understand the language that you're presenting. Clear communication with us is necessary if you're interested in presenting in a language we don't understand. And of course, you will need to adhere to the [code of conduct](https://us.pycon.org/2018/about/code-of-conduct/) even in a different language. 
 
