@@ -98,7 +98,9 @@ Generally speaking a poster is laid out as a landscape 36 inches high by 48 inch
 
 You can use a variety of software to design your poster. We recommend Google Draw, Microsoft Powerpoint, or your favorite presentation software because they easily allow you to add basic shapes, text, and images to your document. Just be sure to set your document properties so that you have the correct resolution. Of course you can also use the Adobe Creative Suite tools, Inkscape, or Gimp to design and layout your poster, though this is slightly more advanced. 
 
-For more information about designing posters, please see [MakeSigns.com poster tutorials](https://www.makesigns.com/tutorials/). MakeSigns.com also has provided PyCon a discount code and flat rate shipping to print your poster. Additionally office supply and shipping retail stores also offer printing services. Don't forget to consider how you're going to get your poster to Cleveland as well! Either ship it directly to your hotel, or bring it with you as you travel in a tube or other protective carrier. 
+For more information about designing posters, please see [MakeSigns.com poster tutorials](https://www.makesigns.com/tutorials/). 
+
+[MakeSigns.com also has provided PyCon a discount code and flat rate shipping to print your poster](https://www.makesigns.com/conference/4996/pycon-conference). Other options include office supply and shipping retail stores also offer printing services. Don't forget to consider how you're going to get your poster to Cleveland as well! Either ship it directly to your hotel, or bring it with you as you travel in a tube or other protective carrier. 
 
 ## Frequently Asked Questions
 
@@ -127,7 +129,9 @@ Alternatively:
 
 The poster session is about facilitating one-on-one interactive presentations with an interested audience, therefore we encourage you to spend more time considering how best to organize and _show_ your work. For example, a well structured, well-organized collection of individual sheets of paper tacked to the board can be as effective as a professionally printed poster. 
 
-Generally speaking, posters are 36″x48″ and can be printed for around USD $50.00. [MakeSigns.com](https://www.makesigns.com/) also has a discount code and flat shipping discount for all PyCon 2018 poster presenters. Posters that have lots of image and short, to-the point text are excellent. Don't be afraid of box and line diagrams or using photographs in your poster! 
+Generally speaking, posters are 36″x48″ and can be printed for around USD $50.00. [MakeSigns.com](https://www.makesigns.com/conference/4996/pycon-conference) also has a discount code and flat shipping discount for all PyCon 2018 poster presenters. Posters that have lots of image and short, to-the point text are excellent. Don't be afraid of box and line diagrams or using photographs in your poster! 
+
+- [MakeSigns PyCon Discounts](https://www.makesigns.com/conference/4996/pycon-conference)
 
 If you're still worried about the cost of printing your poster, please [email us](mailto:pycon-posters@python.org) and we'll see what we can do to help. 
 
