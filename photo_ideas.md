@@ -5,6 +5,8 @@ Currently on the 2017 page:
   photo credit: Taavi Burns
 
 Approved for use:
+- [Rohan Koodli's 2016 poster "Python: A High-Schooler's Perspective"](https://twitter.com/RohanKoodli/status/738214490546671616)    
+  photo credit: [Rohan Koodli](https://twitter.com/RohanKoodli)
 - [Kara Eads's 2017 poster "Feeling Down? You're Not Alone! Tech Burnout and Mental Health"](https://twitter.com/dotsdl/status/868887517759549440)    
   photo credit: [David Dotson](https://twitter.com/dotsdl)
 - [Christine Harvey's 2017 poster "Synchronization Methods for Distributed Agent Based Models"](https://twitter.com/spazm/status/866382374770163712)    
@@ -17,8 +19,6 @@ Approved for use:
 Requests pending:
 - [Evan Hubinger's 2017 poster "Coconut: A Novel Language for Functional Programming in Python"](https://twitter.com/pvomelveny/status/866355090055077888)    
   photo credit: [Patrick O'Melveny](https://twitter.com/pvomelveny)
-- [Rohan Koodli's 2016 poster "Python: A High-Schooler's Perspective"](https://twitter.com/RohanKoodli/status/738214490546671616)    
-  photo credit: [Rohan Koodli](https://twitter.com/RohanKoodli)
 - [Kate MacInnis's 2016 poster "PyMoms: Including Mothers in the Tech Community"](https://twitter.com/pitonisaX/status/738139085055758336)    
   photo credit: [Sheila Allen](https://twitter.com/sheilatronica)
 - [Roxanne Johnson's 2016 poster "Choose Your Own Adventure: Learn Python!"](https://twitter.com/roxLjohnson/status/738095032809357313)    
