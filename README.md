@@ -12,7 +12,7 @@ Ask the listserv:
 - [ ] If we can host poster images 
 
 Other:
-- [x] Register for discount code with MakeSigns.com 
+- [x] Register for [discount code with MakeSigns.com](https://www.makesigns.com/conference/4996/pycon-conference)
 - [x] Add a link to the [PyCon 2017 posters](https://us.pycon.org/2017/schedule/posters/list/)
 - [x] Select photos for inclusion on poster page 
 - [x] Contact photo owners to request use
