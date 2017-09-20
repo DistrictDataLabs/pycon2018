@@ -15,10 +15,10 @@ Approved for use:
   photo credit: [Nick McClure](https://twitter.com/nfmcclure)
 - [Phoebe Chua's 2017 poster "ZimboPy: Empowering Zimbabwean Girls As Change Makers"](https://twitter.com/zimbopy/status/866368609819480064)    
   photo credit: [ZimboPy](https://twitter.com/zimbopy)
-
-Requests pending:
 - [Evan Hubinger's 2017 poster "Coconut: A Novel Language for Functional Programming in Python"](https://twitter.com/pvomelveny/status/866355090055077888)    
   photo credit: [Patrick O'Melveny](https://twitter.com/pvomelveny)
+
+Requests pending:
 - [Kate MacInnis's 2016 poster "PyMoms: Including Mothers in the Tech Community"](https://twitter.com/pitonisaX/status/738139085055758336)    
   photo credit: [Sheila Allen](https://twitter.com/sheilatronica)
 - [Roxanne Johnson's 2016 poster "Choose Your Own Adventure: Learn Python!"](https://twitter.com/roxLjohnson/status/738095032809357313)    
