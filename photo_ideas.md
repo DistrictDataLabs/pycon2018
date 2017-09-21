@@ -17,11 +17,11 @@ Approved for use:
   photo credit: [ZimboPy](https://twitter.com/zimbopy)
 - [Evan Hubinger's 2017 poster "Coconut: A Novel Language for Functional Programming in Python"](https://twitter.com/pvomelveny/status/866355090055077888)    
   photo credit: [Patrick O'Melveny](https://twitter.com/pvomelveny)
+- [2016 Poster Session](https://twitter.com/rsaikali/status/738069117605814273)     
+  photo credit: [Roland Saikali](https://twitter.com/rsaikali)
 
 Requests pending:
 - [Kate MacInnis's 2016 poster "PyMoms: Including Mothers in the Tech Community"](https://twitter.com/pitonisaX/status/738139085055758336)    
   photo credit: [Sheila Allen](https://twitter.com/sheilatronica)
 - [Roxanne Johnson's 2016 poster "Choose Your Own Adventure: Learn Python!"](https://twitter.com/roxLjohnson/status/738095032809357313)    
   photo credit: [Roxanne Johnson](https://twitter.com/roxLjohnson)
-- [2016 Poster Session](https://twitter.com/rsaikali/status/738069117605814273)     
-  photo credit: [Roland Saikali](https://twitter.com/rsaikali)

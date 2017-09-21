@@ -16,4 +16,4 @@ Other:
 - [x] Add a link to the [PyCon 2017 posters](https://us.pycon.org/2017/schedule/posters/list/)
 - [x] Select photos for inclusion on poster page 
 - [x] Contact photo owners to request use
-- [ ] Take a second pass at the content on the website.
+- [x] Take a second pass at the content on the website.
